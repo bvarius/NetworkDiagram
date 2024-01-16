@@ -1,0 +1,27 @@
+IP
+    192.168.1.10
+
+OS
+    Windows 10 Professional
+
+Services
+    XAMMP 8.2.5
+        apache-httpd 4.5
+    IIS 8.5.3
+        FTP Server
+            <hosted_directories>
+    DNS
+        <dns_zone>
+    AD DS
+        <domain>
+    SMB
+        <share>
+        <share>
+    MSSQL 12.6
+        <db_name>
+
+Software
+    Minecraft 8.1
+    Chrome 16.5
+    MS Edge 15.3
+    Malwarebytes AV 1.2
