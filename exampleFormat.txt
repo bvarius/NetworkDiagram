@@ -1,3 +1,5 @@
+Name
+    Example_Box
 IP
     192.168.1.10
 
