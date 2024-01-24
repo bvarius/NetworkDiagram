@@ -6,7 +6,7 @@ Tool to diagram networks, particularly for use in CCDC environments.
     * NMAP - Only externally facing services, still important to know
     * Ideally, local tool that generates a file describing the machine
 * Format Box Info into File to parse into Diagram Creator
-    * YAML?
+    * XML?
     * Similar to KAPE Modules
 * Create Diagram
     * Convert description file into visual representation of the box
