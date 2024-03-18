@@ -1,0 +1,115 @@
+Name
+	JHDSU21
+IP
+	138.247.99.153
+Version
+	Windows 10.0.22631
+Architecture
+	AMD64
+Services
+	Adobe Acrobat Update Service
+	Background Tasks Infrastructure Service
+	Base Filtering Engine
+	COM+ Event System
+	Certificate Propagation
+	Clipboard User Service_edc4f
+	Connected Devices Platform Service
+	Connected Devices Platform User Service_edc4f
+	Connected User Experiences and Telemetry
+	CoreMessaging
+	Cryptographic Services
+	DCOM Server Process Launcher
+	DHCP Client
+	DNS Client
+	Data Usage
+	Delivery Optimization
+	Device Association Service
+	Diagnostic Policy Service
+	Display Policy Service
+	Distributed Link Tracking Client
+	Downloaded Maps Manager
+	ELAN Service
+	EMP_NSWLSV
+	Everything
+	Fujitsu FUJ02E3 Device Driver - Utility Service
+	Game Controller Mapping Service
+	GameInput Service
+	Gaming Services
+	GoogleUpdater InternalService 124.0.6315.0 (GoogleUpdaterInternalService124.0.6315.0)
+	GoogleUpdater Service 124.0.6315.0 (GoogleUpdaterService124.0.6315.0)
+	Group Policy Client
+	HP Print Scan Doctor Service
+	IKE and AuthIP IPsec Keying Modules
+	IP Helper
+	Intel(R) Content Protection HDCP Service
+	Intel(R) Dynamic Application Loader Host Interface Service
+	Intel(R) Graphics Command Center Service
+	Intel(R) HD Graphics Control Panel Service
+	Intel(R) Management and Security Application Local Management Service
+	Intel(R) TPM Provisioning Service
+	LGHUB Updater Service
+	Local Session Manager
+	Microsoft Defender Antivirus Service
+	Microsoft Edge Update Service (edgeupdate)
+	Microsoft Office Click-to-Run Service
+	Network Store Interface Service
+	OpenVPN Agent agent_ovpnconnect
+	OpenVPN Connect Helper Service
+	PanGPS
+	Panopto Upload Service
+	Power
+	Print Spooler
+	Program Compatibility Assistant Service
+	RPC Endpoint Mapper
+	Razer Central Service
+	Razer Game Manager
+	Razer Synapse Service
+	Realtek Audio Universal Service
+	Remote Access Connection Manager
+	Remote Procedure Call (RPC)
+	Security Accounts Manager
+	Security Center
+	Server
+	Shell Hardware Detection
+	Smart Card
+	Software Protection
+	State Repository Service
+	Storage Service
+	Sync Host_edc4f
+	SysMain
+	System Event Notification Service
+	System Events Broker
+	Task Scheduler
+	Text Input Management Service
+	Themes
+	Update Orchestrator Service
+	User Manager
+	User Profile Service
+	VMware Authorization Service
+	VMware DHCP Service
+	VMware NAT Service
+	VMware USB Arbitration Service
+	WLAN AutoConfig
+	WSL Service
+	Waves Audio Services
+	Web Threat Defense User Service_edc4f
+	Windows Audio
+	Windows Audio Endpoint Builder
+	Windows Connection Manager
+	Windows Defender Firewall
+	Windows Event Log
+	Windows Font Cache Service
+	Windows Image Acquisition (WIA)
+	Windows Management Instrumentation
+	Windows Push Notifications System Service
+	Windows Push Notifications User Service_edc4f
+	Windows Search
+	Windows Subsystem for Linux
+	Wired AutoConfig
+	Wondershare Driver Install Service help
+	Wondershare Install Assist Service
+	Wondershare WSID help
+	Wondershare WirelessBackup Service help
+	Workstation
+Programs
+	Mozilla Firefox  | 123.0

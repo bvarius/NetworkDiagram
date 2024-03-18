@@ -3,6 +3,7 @@ import socket
 
 if (uname().system == 'Windows'):
     from winreg import ConnectRegistry, HKEY_LOCAL_MACHINE, OpenKey, QueryInfoKey, EnumKey, QueryValueEx
+    from os import listdir
     import psutil
 else:
     import apt
@@ -39,7 +40,8 @@ def win_software():
             if (software_key_name[0] != '{' and software_key_name[0]):
                 if (software_version in software_key_name):
                     software_key_name = software_key_name[:software_key_name.find(software_version)]
-                programs += [software_key_name + ' | ' + software_version]
+                    if (software_key_name != ''):
+                        programs += [software_key_name + ' | ' + software_version]
         except Exception as e:
             pass
     return programs
